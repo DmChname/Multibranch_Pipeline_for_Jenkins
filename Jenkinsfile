@@ -14,7 +14,7 @@ pipeline
         {
 	    when
 	    {
-		branch "fix=*"
+		branch "fix-*"
 	    }
             steps
             {
